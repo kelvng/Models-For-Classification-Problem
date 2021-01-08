@@ -2,6 +2,8 @@
 
 ## Subject: Introduction Machine Learning
 
+The subject includes basic knowledge of computer security and basic knowledge of information security. The subject content consists of 10 chapters, each of which is a topic on current information security such as identification and authentication, user access control, database security, software security, encryption. , network security etc ...
+
 ## Present machine learning issues by building machine learning models for classification
 problem.
 1) Standardize data: using a dataset of numeric and categorial (nominal) types
